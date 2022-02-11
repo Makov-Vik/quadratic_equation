@@ -3,7 +3,6 @@
 const fs = require('fs');
 const readlineSync = require('readline-sync');
 
-
 const valid = (message) => {
   const numbers = message.map((item, index) => {
     const num = Number(item);
