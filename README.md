@@ -42,7 +42,9 @@ In the data folder, create a file with the *.txt extension, in which you specify
 ```2 3 -1 ```
 
 Further just write the command below, instead of 'file_name' put the file name
-`$ npm run 'file_name'.txt`
+```
+$ npm run 'file_name'.txt
+```
 
 # Link to Revert commit
 [Here][1]
